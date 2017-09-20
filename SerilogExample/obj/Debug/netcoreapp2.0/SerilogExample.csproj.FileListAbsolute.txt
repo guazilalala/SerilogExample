@@ -1,0 +1,11 @@
+D:\GitHub\SerilogExample\SerilogExample\bin\Debug\netcoreapp2.0\SerilogExample.deps.json
+D:\GitHub\SerilogExample\SerilogExample\bin\Debug\netcoreapp2.0\SerilogExample.runtimeconfig.json
+D:\GitHub\SerilogExample\SerilogExample\bin\Debug\netcoreapp2.0\SerilogExample.runtimeconfig.dev.json
+D:\GitHub\SerilogExample\SerilogExample\bin\Debug\netcoreapp2.0\SerilogExample.dll
+D:\GitHub\SerilogExample\SerilogExample\obj\Debug\netcoreapp2.0\SerilogExample.csprojResolveAssemblyReference.cache
+D:\GitHub\SerilogExample\SerilogExample\obj\Debug\netcoreapp2.0\SerilogExample.csproj.CoreCompileInputs.cache
+D:\GitHub\SerilogExample\SerilogExample\obj\Debug\netcoreapp2.0\SerilogExample.AssemblyInfoInputs.cache
+D:\GitHub\SerilogExample\SerilogExample\obj\Debug\netcoreapp2.0\SerilogExample.AssemblyInfo.cs
+D:\GitHub\SerilogExample\SerilogExample\bin\Debug\netcoreapp2.0\SerilogExample.pdb
+D:\GitHub\SerilogExample\SerilogExample\obj\Debug\netcoreapp2.0\SerilogExample.dll
+D:\GitHub\SerilogExample\SerilogExample\obj\Debug\netcoreapp2.0\SerilogExample.pdb
